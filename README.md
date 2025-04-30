@@ -9,3 +9,13 @@ This project is a chatbot application that allows users to interact with a struc
 - Cleaned and trimmed IMDb dataset for faster queries
 - Streamlit interface for real-time chat
 - Fallback text responses for invalid or failed queries
+
+## Results
+
+# FrontEnd
+
+![alt text](images/frontend.png)
+
+# Backend
+
+![alt text](images/backend.png)
